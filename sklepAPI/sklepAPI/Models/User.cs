@@ -22,3 +22,10 @@ public class LoginDto
 
     public string Password { get; set; } = null!;
 }
+
+public class ChangePasswordDto
+{
+    public string Username { get; set; }
+    public string OldPassword { get; set; }
+    public string NewPassword { get; set; }
+}

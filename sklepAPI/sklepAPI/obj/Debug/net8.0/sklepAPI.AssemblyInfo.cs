@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sklepAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5f826be82d72eebe22a8940c31f9dc343daf6a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6dea6f43e4f0a4b733a0dcb09ca2d24aeac902")]
 [assembly: System.Reflection.AssemblyProductAttribute("sklepAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sklepAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

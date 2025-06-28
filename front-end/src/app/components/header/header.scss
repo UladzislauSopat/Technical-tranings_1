@@ -1,0 +1,44 @@
+header {
+    position: relative;
+    background-color: #4a64ff;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    ul {
+        list-style: none;
+        display: flex;
+        gap: 10px;
+        height: 100%;
+        .header_button {
+            display: flex;
+            align-items: center;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            padding-left: 10px;
+            padding-right: 10px;
+            border-radius: 10px;
+        }
+    }
+    button {
+        position: absolute;
+        height: 100%;
+        background-color: #4a64ff;
+        padding-left: 10px;
+        padding-right: 10px;
+        color: white;
+        border-radius: 10px;
+        border: none;
+        right: 30px;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+}
+
+.header_button:hover,
+.exit_button:hover {
+    cursor: pointer;
+    background-color: #4b2c7d;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

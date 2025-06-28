@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\",
+  "WorkspaceRootPath": "C:\\Technical-tranings_1\\sklepAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\users\\w70626\\source\\repos\\technical-tranings_1\\sklepapi\\sklepapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|c:\\technical-tranings_1\\sklepapi\\sklepapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF973263-9C10-4B44-BE85-A990144E1E55}|sklepAPI\\sklepAPI.csproj|solutionrelative:sklepapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Program.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Program.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Program.cs",
               "RelativeToolTip": "sklepAPI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "sklepAPI\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "sklepAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "sklepAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Product.cs",
               "RelativeToolTip": "sklepAPI\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Category.cs",
               "RelativeDocumentMoniker": "sklepAPI\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\w70626\\source\\repos\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Technical-tranings_1\\sklepAPI\\sklepAPI\\Models\\Category.cs",
               "RelativeToolTip": "sklepAPI\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

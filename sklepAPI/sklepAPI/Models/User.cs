@@ -7,6 +7,8 @@ public class User
     public string Username { get; set; } = null!;
 
     public string PasswordHash { get; set; } = null!;
+
+    public string JobTitle { get; set; } = null!;
 }
 
 public class RegisterDto

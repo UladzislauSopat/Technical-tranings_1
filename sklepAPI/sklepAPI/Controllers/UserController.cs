@@ -72,4 +72,14 @@ public class UsersController : ControllerBase
 
         return Ok(new { message = "Password changed successfully!" });
     }
+
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<object>>> GetUsers()
+    {
+        var users = await _context.Users
+            .Select(u => new { u.Id, u.Username, u.JobTitle })
+            .ToListAsync();
+
+        return Ok(users);
+    }
 }

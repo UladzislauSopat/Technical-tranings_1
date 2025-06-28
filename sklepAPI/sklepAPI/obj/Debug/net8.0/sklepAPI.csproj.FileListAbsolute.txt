@@ -477,3 +477,4 @@ C:\Users\Admin\source\repos\Technical-tranings_1\sklepAPI\sklepAPI\obj\Debug\net
 C:\Users\Admin\source\repos\Technical-tranings_1\sklepAPI\sklepAPI\obj\Debug\net8.0\sklepAPI.pdb
 C:\Users\Admin\source\repos\Technical-tranings_1\sklepAPI\sklepAPI\obj\Debug\net8.0\sklepAPI.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Technical-tranings_1\sklepAPI\sklepAPI\obj\Debug\net8.0\ref\sklepAPI.dll
+C:\Users\Admin\Source\Repos\Technical-tranings_1\sklepAPI\sklepAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

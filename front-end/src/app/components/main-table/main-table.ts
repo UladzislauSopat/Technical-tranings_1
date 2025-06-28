@@ -16,7 +16,7 @@ export class MainTable {
     theme: themeBalham,
   }
 
-  @Input() rowData!: []
-  @Input() colDefs!: ColDef[]
+  @Input() rowData!: [];
+  @Input() colDefs!: ColDef[];
   
 }

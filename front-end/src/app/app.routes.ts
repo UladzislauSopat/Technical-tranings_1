@@ -1,6 +1,7 @@
 import { Routes } from '@angular/router';
 import { LoginPage } from './components/login-page/login-page';
-import { MainTable } from './components/main-tanle/main-table';
+import { MainTable } from './components/main-table/main-table';
+import { Products } from './pages/products/products';
 
 export const routes: Routes = [
     {
@@ -9,6 +10,6 @@ export const routes: Routes = [
     },
     {
         path: 'items',
-        component: MainTable
+        component: Products
     }
 ];

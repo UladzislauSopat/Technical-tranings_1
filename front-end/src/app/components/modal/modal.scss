@@ -1,0 +1,45 @@
+.modal_wrapper {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #4a64ff;
+    gap: 20px;
+    border-radius: 10px;
+    left: calc(50% - 250px);
+    bottom: 30vh;
+    z-index: 9999;
+    .modal_form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+        gap: 5px;
+        padding-top: 10px;
+        label {
+            color: white;
+        }
+        input {
+            width: 70%;
+            height: 30px;
+            border-radius: 4px;
+            border: none;
+        }
+    }
+    .buttons {
+        display: flex;
+        gap: 10px;
+        button {
+            width: 60px;
+            height: 30px;
+            margin-bottom: 10px;
+            border-radius: 3px;
+            border: none;
+        }
+    }
+}
+
+button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+<div *ngIf="showModal" class="modal_wrapper">
+    <form class="modal_form" *ngIf="ProductsForm" [formGroup]="ProductsForm">
+        <label for="category">Category</label>
+        <input id="category" type="text" formControlName="category">
+        <label for="Name">Name</label>
+        <input id="Name" type="text" formControlName="Name">
+        <label for="quty">Quantity</label>
+        <input id="quty" type="text" formControlName="quty">
+        <label for="suppl">Suppliers</label>
+        <input id="suppl" type="text" formControlName="suppl">
+        <label for="price">Price</label>
+        <input id="price" type="text" formControlName="price">
+    </form>
+    <div class="buttons">
+        <button (click)="submitForm()">Submit</button>
+        <button (click)="close()">Close</button>
+    </div>
+    
+</div>

@@ -1,3 +1,6 @@
+<button (click)="addProductModal()">add product</button>
 <app-main-tanle
     [colDefs]="produstsColumns"
+    [rowData]="productsData"
+    (changedRow)="changedRow($event)"
 />

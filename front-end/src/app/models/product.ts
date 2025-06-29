@@ -1,17 +1,17 @@
 export interface IProduct {
-  id?: 0;
+  id?: number;
   name: string;
-  price: 0;
-  quantity: 0;
-  categoryId: 0;
+  price: number;
+  quantity: number;
+  categoryId: number;
   description: string;
   category?: {
-    id: 0;
+    id?: number;
     name: string;
   },
-  supplierId: 0;
+  supplierId: number;
   supplier?: {
-    id: 0;
+    id?: number;
     name: string;
     email: string;
   }
